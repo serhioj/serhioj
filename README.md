@@ -14,11 +14,11 @@ Fullstack developer working with **Laravel, Vue.js, Node.js and Go**. Founder an
 
 ## Achievements
 
-- 🥇 **1st place** — Ideas for MAX Hackathon 2026
-- 🚀 **Winner** — “Student Startup” competition
-- 🏆 **Finalist** — Federation of Sports Programming Hackathon, Stoloto case
-- 🎓 **Presidential Scholarship recipient**, 2025–2026
-- 📚 Author and co-author of **23 scientific publications**
+- **1st place** — Ideas for MAX Hackathon 2026
+- **Winner** — “Student Startup” competition
+- **Finalist** — Federation of Sports Programming Hackathon, Stoloto case
+- **Presidential Scholarship recipient**, 2025–2026
+- Author and co-author of **23 scientific publications**
 
 ## Selected projects
 
