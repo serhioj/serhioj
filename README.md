@@ -53,7 +53,7 @@ Python research project for reliable task allocation in heterogeneous robotic gr
 
 ## Education & research
 
-- **North-Caucasus Federal University** — Computer Security, 4th year
+- **North-Caucasus Federal University** — Computer Security, 5th year
 - **School 21** — Software Engineering
 - **23 publications** on [eLIBRARY.RU](https://www.elibrary.ru/author_items.asp?authorid=1327942)
 - [ORCID: 0009-0004-0881-9720](https://orcid.org/0009-0004-0881-9720)
